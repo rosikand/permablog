@@ -1,6 +1,6 @@
 # Permablog 
 
-> Permanent, hosted archive of my blog posts. 
+> Permanent, hosted archive of my blog posts with an HTML front-end. 
 
 <!-- <p align="center">
 <img alt="picture 1" src="https://cdn.jsdelivr.net/gh/minimatest/vscode-images/images/ae6b8c9cd5ded6725f083de7e7f5a953470571a51418181054dc843f953d874c.png" width="300" />  
